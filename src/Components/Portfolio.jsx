@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/tech.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "tech background";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Netflix Clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A descriptive and responsive netflix clone ",
+    url: "https://garimas10u.github.io/Netflix-Clone/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Foodeasy",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A website to deliver diffreent delicacies to people in least time",
+    url: " https://garimas10u.github.io/Foodeasy/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a portfolio and deployed to GitHub pages. Includes my skills and development abilities.",
+    url: "https://garimas10u.github.io/Portfolio/",
   },
   {
     title: "GitHub Codespaces and github.dev",
