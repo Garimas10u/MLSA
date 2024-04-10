@@ -1,5 +1,6 @@
 {
     "github-actions.workflows.pinned.workflows": [
+        ".github/workflows/azure-static-web-apps-lively-moss-040f74100.yml",
         ".github/workflows/close-pull-requests.yml"
     ]
 }
